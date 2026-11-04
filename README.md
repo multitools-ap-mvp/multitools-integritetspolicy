@@ -1,3 +1,3 @@
 # multitools-integritetspolicy
 
-Apex Multi Tools integritetspolicy På Svenska
+Apex Multi Tools Integritetspolicy På Svenska
